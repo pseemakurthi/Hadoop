@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/_0Hadoop_Lib/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

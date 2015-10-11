@@ -1,0 +1,16 @@
+aarti,922,Deendayal Public School,Delhi,aarti@gmail.com
+arun,854,Kaitan Public School,Bombay,arun@gmail.com
+beeful,982,DAV Public School,Madras,beeful@gmail.com
+kaarim,722,HolyAngels School,Delhi,kaarim@gmail.com
+murti,622,Ingraham Public School,Delhi,murti@gmail.com
+avni,859,Kaitan Public School,Delhi,avni@gmail.com
+amrita,956,Deendayal Public School,Delhi,amrita@gmail.com
+suresh,876,Kaitan Public School,Bombay,suresh@gmail.com
+malti,999,DAV Public School,Madras,malti@gmail.com
+sarita,982,HolyAngels School,Delhi,sarita@gmail.com
+rohan,522,Ingraham Public School,Delhi,rohan@gmail.com
+amit,692,Deendayal Public School,Delhi,amit@gmail.com
+sumit,899,Kaitan Public School,Bombay,sumit@gmail.com
+vineet,942,DAV Public School,Madras,vineet@gmail.com
+sanaya,929,HolyAngels School,Delhi,sanaya@gmail.com
+mukesh,972,Ingraham Public School,Delhi,mukesh@gmail.com

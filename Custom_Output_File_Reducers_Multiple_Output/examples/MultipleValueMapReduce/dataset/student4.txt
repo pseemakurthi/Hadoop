@@ -1,0 +1,15 @@
+samnan,948,RDHS,Karnataka,samnan@live.com
+prasad,950,KVK,MH,prasad@gmail.com
+Nilesh,988,BSC,MH,Nilesh@yahoo.com
+amol,940,RDHS,MH,amol@gmail.com
+ashwini,951,subodh highschool,MH,ashwini@gmail.com
+jai,988,Maratha mandal,MH,jai@gmail.com
+pradeep,999,pridarshini,MH,pradeep@gmail.com
+sonali,977,ZP,MH,sonali@gmail.com
+jaishree,987,KVR,MH,jaishree@flologic.in
+suyash,865,shivaji vidhyamandir,MH,suyash@flologic.in
+rushi,777,shinhgad,MH,rushi@gmail.com
+arachana,546,champawati,MH,marane@flologic.in
+rajesh,454,spring dell,MH,rajesh@gmail.com
+swapnil,885,KVK,MH,swapnil@gmail.com
+asha,544,NV,MH,asha@gmail.com

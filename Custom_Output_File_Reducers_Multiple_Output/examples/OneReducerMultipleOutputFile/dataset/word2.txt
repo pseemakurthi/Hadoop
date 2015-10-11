@@ -1,0 +1,3 @@
+s_cricket s_cricket s_football s_cricket
+f_apple f_carrot f_apple f_carrot mango mango
+f_banana f_orange f_apple kite

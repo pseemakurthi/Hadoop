@@ -1,0 +1,6 @@
+f_apple f_orange f_banana
+s_tennis s_cricket s_football s_tennis
+f_papaya f_papaya f_orange 
+s_badminton s_badminton s_cricket
+apple orange apple
+cricket
