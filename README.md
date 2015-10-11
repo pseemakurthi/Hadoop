@@ -1,2 +1,3 @@
 # Hadoop
-Hadoop Demos
+Hadoop Demo
+Here I will try to explain various map reduce examples on Hadoop framework 
